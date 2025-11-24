@@ -2,9 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>tim hieu nhan vat lich su</title>
+    <title>hay lứm nha</title>
 </head>
 <body>
-    <a href="https://youtu.be/dQw4w9WgXcQ?si=9X_3wQH68gYJEb24">Bấm vào đây</a>
+    <a href="https://www.youtube.com/@thaynguyenvantien7326">Bấm vào đây nếu thích toán</a>
+    <h1>k thích cũng bấm nhé</h1>
 </body>
 </html>
